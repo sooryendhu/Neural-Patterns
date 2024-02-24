@@ -1,4 +1,4 @@
-# Soor
+# Recognising Neural Patterns
 Title: Enhanced Neural Network with Dilated Convolutions and Parallel Branches for MNIST Classification
 
 Overview:
